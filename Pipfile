@@ -24,7 +24,7 @@ requests = "==2.19.1"
 virtualenv = "==16.0.0"
 virtualenv-clone = "==0.3.0"
 whitenoise = "==3.3.1"
-Django = "==2.1"
+Django = "==2.1.11"
 Pygments = "==2.2.0"
 
 [dev-packages]
