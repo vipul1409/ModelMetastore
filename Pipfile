@@ -25,7 +25,7 @@ virtualenv = "==16.0.0"
 virtualenv-clone = "==0.3.0"
 whitenoise = "==3.3.1"
 Django = "==2.1"
-Pygments = "==2.2.0"
+Pygments = "==2.7.4"
 
 [dev-packages]
 
